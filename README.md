@@ -42,6 +42,10 @@
 8) Microsoft and [NVIDIA](https://developer.nvidia.com/deepstream-sdk)  extend video analytics to the intelligent edge using [DeepStream SDK](https://azure.microsoft.com/en-us/blog/microsoft-and-nvidia-extend-video-analytics-to-the-intelligent-edge/)
 ![alt text](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e86d2867-40b5-4726-9334-82fb715526f5.jpg)
 
+9) This [repo](https://github.com/Microsoft/vision-ai-developer-kit) contains the components needed to use the [Vision AI Developer Kit](https://azure.github.io/Vision-AI-DevKit-Pages/) to develop Neural Network models which can be deployed to the Vision AI DevKit hardware.
+![alt text](https://azure.github.io/Vision-AI-DevKit-Pages/assets/images/Peabody_spec_image.png)
+
+
 9) Microsoft IoT channel demo video for ML deployment on edge: [Train with Azure ML and deploy everywhere with ONNX Runtime](https://www.youtube.com/watch?time_continue=409&v=JpfZxRsLgWg)<br>
 
 10) [Real-time computer vision with Databricks Runtime for Machine Learning](https://databricks.com/blog/2018/09/13/identify-suspicious-behavior-in-video-with-databricks-runtime-for-machine-learning.html)
