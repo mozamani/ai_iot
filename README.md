@@ -30,9 +30,9 @@
 ![alt text](https://github.com/onnx/models/blob/master/resource/images/ONNX%20Model%20Zoo%20Graphics.png)
 
 6) Select ONNX examples: <br>
-- [Object Detection with ONNX Runtime (YOLOv3)] (https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_dection_onnxruntime_inference.ipynb) <br>
-- [YOLO Real-time Object Detection using ONNX on AzureML] (https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_dection_onnxruntime_inference.ipynb) <br>
--[Gallery of ONNX Runtime examples](https://microsoft.github.io/onnxruntime/auto_examples/index.html)
+- [Object Detection with ONNX Runtime (YOLOv3)](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_dection_onnxruntime_inference.ipynb) <br>
+- [YOLO Real-time Object Detection using ONNX on AzureML](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_dection_onnxruntime_inference.ipynb) <br>
+- [Gallery of ONNX Runtime examples](https://microsoft.github.io/onnxruntime/auto_examples/index.html)
 
 7) [This tutorial](https://github.com/Azure-Samples/onnxruntime-iot-edge) shows how to integrate Azure services with machine learning on the NVIDIA Jetson Nano (an ARM64 device) using Python. By the end of this sample, you will have a low-cost DIY solution for object detection within a space and a unique understanding of integrating ARM64 platform with Azure IoT services and machine learning.
 ![alt text](https://github.com/Azure-Samples/onnxruntime-iot-edge/raw/master/images_for_readme/arch.jpg)
@@ -40,6 +40,6 @@
 8) [Real-time computer vision with Databricks Runtime for Machine Learning](https://databricks.com/blog/2018/09/13/identify-suspicious-behavior-in-video-with-databricks-runtime-for-machine-learning.html)
 ![alt text](https://databricks.com/wp-content/uploads/2018/09/db-video-pipeline.png)
 
+9) Microsoft IoT channel demo video for ML deployment on edge: [Train with Azure ML and deploy everywhere with ONNX Runtime](https://www.youtube.com/watch?time_continue=409&v=JpfZxRsLgWg)<br>
 
-
-3) Demo video: [Train with Azure ML and deploy everywhere with ONNX Runtime](https://www.youtube.com/watch?time_continue=409&v=JpfZxRsLgWg)
+10) Microsoft and NVIDIA extend video analytics to the intelligent edge using NVIDIA [DeepStream](https://developer.nvidia.com/deepstream-sdk) [link]((https://azure.microsoft.com/en-us/blog/microsoft-and-nvidia-extend-video-analytics-to-the-intelligent-edge/)
