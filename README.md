@@ -10,21 +10,25 @@
 1) This [tutorial](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-custom-vision) shows how to train and deploy a comoputer vision model on IoT edge devices using the [Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home) service. <br>
 ![alt text](https://docs.microsoft.com/en-us/azure/iot-edge/media/tutorial-deploy-custom-vision/custom-vision-architecture.png) 
 
-2) Microsoft[Computer Vision](https://github.com/microsoft/ComputerVision) provides examples and best practice guidelines for building computer vision systems. All examples are given as Jupyter notebooks, and use PyTorch as the deep learning library.
+2) Microsoft [Computer Vision](https://github.com/microsoft/ComputerVision) provides examples and best practice guidelines for building computer vision systems. All examples are given as Jupyter notebooks, and use PyTorch as the deep learning library.
 ![alt text](https://github.com/microsoft/ComputerVision/blob/master/media/intro_od_vis.jpg) <br>
 
 3) Reference architectures for distributed training of deep learning models (on GPU) - this is an architecture for data-parallel distributed training with synchronous updates using [**Horovod**](https://github.com/horovod/horovod).<br> 
 -- [reference architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/training-deep-learning)  
--- [github page](https://github.com/microsoft/DistributedDeepLearning/)
--- Horovod main [paper](https://arxiv.org/pdf/1802.05799.pdf)<br>
+-- [github page](https://github.com/microsoft/DistributedDeepLearning/)<br>
+-- Horovod [main paper](https://arxiv.org/pdf/1802.05799.pdf)<br>
 
 ![alt text](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/distributed_dl_flow.png)
 
 ![alt text](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/distributed_dl_architecture.png)
 
 
+4) [ONNX Runtime](https://github.com/microsoft/onnxruntime?WT.mc_id=iot-c9-niner) is a performance-focused complete scoring engine for [ONNX](https://onnx.ai/) models, with an open extensible architecture to continually address the latest developments in AI and Deep Learning. ONNX Runtime stays up to date with the ONNX standard with complete implementation of all ONNX operators, and supports all ONNX releases (1.2+) with both future and backwards compatibility.
+![alt text](https://github.com/onnx/models/blob/master/resource/images/ONNX%20Model%20Zoo%20Graphics.png)
 
-3) [ONNX Runtime](https://github.com/microsoft/onnxruntime?WT.mc_id=iot-c9-niner) is a performance-focused complete scoring engine for [ONNX](https://onnx.ai/) models, with an open extensible architecture to continually address the latest developments in AI and Deep Learning. ONNX Runtime stays up to date with the ONNX standard with complete implementation of all ONNX operators, and supports all ONNX releases (1.2+) with both future and backwards compatibility.
+5) [ONNX model Zoo](https://github.com/onnx/models)  is a collection of pre-trained, state-of-the-art models in the (ONNX) format contributed by community members like you. Accompanying each model are Jupyter notebooks for model training and running inference with the trained model. The notebooks are written in Python and include links to the training dataset as well as references to the original paper that describes the model architecture.
+
+
 
 ### ONNX
 
