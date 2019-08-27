@@ -1,5 +1,5 @@
 # Azure AI & IoT services
-![alt text](https://github.com/mozamani/ai_iot/blob/master/files/logo.png | width=100)
+![image](https://github.com/mozamani/ai_iot/blob/master/files/logo.png | width=100)
 ------
 
 ## Deploying AI models on IoT Edge
