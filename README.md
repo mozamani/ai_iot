@@ -22,6 +22,8 @@
 
 ![alt text](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/distributed_dl_architecture.png)
 
+5) [This repository](https://github.com/microsoft/AKSDeploymentTutorialAML) provides a number of tutorials in Jupyter notebooks that have step-by-step instructions on how to deploy a pretrained deep learning model on a GPU enabled Kubernetes cluster throught Azure Machine Learning (AzureML)
+![alt text](https://camo.githubusercontent.com/51f005d8fe7e49980f997b0350473c3fe3fe1a3b/68747470733a2f2f686170707970617468737075626c69632e626c6f622e636f72652e77696e646f77732e6e65742f616b736465706c6f796d656e747475746f7269616c616d6c2f617a757265696f746564676572756e74696d652e706e67)
 
 4) [ONNX Runtime](https://github.com/microsoft/onnxruntime?WT.mc_id=iot-c9-niner) is a performance-focused complete scoring engine for [ONNX](https://onnx.ai/) models, with an open extensible architecture to continually address the latest developments in AI and Deep Learning. ONNX Runtime stays up to date with the ONNX standard with complete implementation of all ONNX operators, and supports all ONNX releases (1.2+) with both future and backwards compatibility.
 ![alt text](https://github.com/microsoft/onnxruntime/raw/master/docs/images/ONNX_Runtime_logo_dark.png)
