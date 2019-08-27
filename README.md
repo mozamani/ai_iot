@@ -42,4 +42,5 @@
 
 9) Microsoft IoT channel demo video for ML deployment on edge: [Train with Azure ML and deploy everywhere with ONNX Runtime](https://www.youtube.com/watch?time_continue=409&v=JpfZxRsLgWg)<br>
 
-10) Microsoft and NVIDIA extend video analytics to the intelligent edge using NVIDIA [DeepStream](https://developer.nvidia.com/deepstream-sdk) [link]((https://azure.microsoft.com/en-us/blog/microsoft-and-nvidia-extend-video-analytics-to-the-intelligent-edge/)
+10) Microsoft and NVIDIA extend video analytics to the intelligent edge using NVIDIA [DeepStream](https://developer.nvidia.com/deepstream-sdk) [link](https://azure.microsoft.com/en-us/blog/microsoft-and-nvidia-extend-video-analytics-to-the-intelligent-edge/)
+![alt text](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e86d2867-40b5-4726-9334-82fb715526f5.jpg)
