@@ -1,6 +1,6 @@
 # Azure AI & IoT services
 
-![alt text](https://github.com/mozamani/ai_iot/blob/master/files/logo.png) <!-- .element height="50%" width="50%" -->
+![alt text](https://github.com/mozamani/ai_iot/blob/master/files/logo.png) <!-- .element height="10%" width="10%" -->
 
 ## Deploying AI models on IoT Edge
 ![alt text](https://github.com/mozamani/ai_iot/blob/master/files/architecture.png)
@@ -39,13 +39,15 @@
 7) [This tutorial](https://github.com/Azure-Samples/onnxruntime-iot-edge) shows how to integrate Azure services with machine learning on the NVIDIA Jetson Nano (an ARM64 device) using Python. By the end of this sample, you will have a low-cost DIY solution for object detection within a space and a unique understanding of integrating ARM64 platform with Azure IoT services and machine learning.
 ![alt text](https://github.com/Azure-Samples/onnxruntime-iot-edge/raw/master/images_for_readme/arch.jpg)
 
-8) [Real-time computer vision with Databricks Runtime for Machine Learning](https://databricks.com/blog/2018/09/13/identify-suspicious-behavior-in-video-with-databricks-runtime-for-machine-learning.html)
-![alt text](https://databricks.com/wp-content/uploads/2018/09/db-video-pipeline.png)
+8) Microsoft and [NVIDIA](https://developer.nvidia.com/deepstream-sdk)  extend video analytics to the intelligent edge using [DeepStream SDK](https://azure.microsoft.com/en-us/blog/microsoft-and-nvidia-extend-video-analytics-to-the-intelligent-edge/)
+![alt text](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e86d2867-40b5-4726-9334-82fb715526f5.jpg)
 
 9) Microsoft IoT channel demo video for ML deployment on edge: [Train with Azure ML and deploy everywhere with ONNX Runtime](https://www.youtube.com/watch?time_continue=409&v=JpfZxRsLgWg)<br>
 
-10) Microsoft and [NVIDIA](https://developer.nvidia.com/deepstream-sdk)  extend video analytics to the intelligent edge using [DeepStream SDK](https://azure.microsoft.com/en-us/blog/microsoft-and-nvidia-extend-video-analytics-to-the-intelligent-edge/)
-![alt text](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e86d2867-40b5-4726-9334-82fb715526f5.jpg)
+10) [Real-time computer vision with Databricks Runtime for Machine Learning](https://databricks.com/blog/2018/09/13/identify-suspicious-behavior-in-video-with-databricks-runtime-for-machine-learning.html)
+![alt text](https://databricks.com/wp-content/uploads/2018/09/db-video-pipeline.png)
+
+
 
 ### MLOps with Azure ML
 Azure ML contains a number of asset management and orchestration services to help you manage the lifecycle of your model training & deployment workflows.
