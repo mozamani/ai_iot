@@ -32,8 +32,7 @@
 ![alt text](https://github.com/onnx/models/blob/master/resource/images/ONNX%20Model%20Zoo%20Graphics.png)
 
 6) Select ONNX examples: <br>
-- [Object Detection with ONNX Runtime (YOLOv3)](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_dection_onnxruntime_inference.ipynb) <br>
-- [YOLO Real-time Object Detection using ONNX on AzureML](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/inference_demos/yoloV3_object_dection_onnxruntime_inference.ipynb) <br>
+- [Tutorials showing how to create and deploy Open Neural Network eXchange (ONNX) models in Azure Machine Learning environments using ONNX Runtime for inference](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/deployment/onnx) <br>
 - [Gallery of ONNX Runtime examples](https://microsoft.github.io/onnxruntime/auto_examples/index.html)
 
 7) [This tutorial](https://github.com/Azure-Samples/onnxruntime-iot-edge) shows how to integrate Azure services with machine learning on the NVIDIA Jetson Nano (an ARM64 device) using Python. By the end of this sample, you will have a low-cost DIY solution for object detection within a space and a unique understanding of integrating ARM64 platform with Azure IoT services and machine learning.
