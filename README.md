@@ -58,3 +58,6 @@ Azure ML contains a number of asset management and orchestration services to hel
 With [Azure ML + Azure DevOps](https://github.com/Microsoft/MLOps) you can effectively and cohesively manage your datasets, experiments, models, and ML-infused applications.  
 ![alt text](https://github.com/microsoft/MLOps/raw/master/media/ml-lifecycle.png)
 
+
+### Predictive Maintenance with AI
+) Deploy Azure Machine Learning predictive maintenance model as an IoT Edge module (demo link)[https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-machine-learning]
