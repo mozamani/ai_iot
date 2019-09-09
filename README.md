@@ -60,4 +60,17 @@ With [Azure ML + Azure DevOps](https://github.com/Microsoft/MLOps) you can effec
 
 
 ### Predictive Maintenance with AI
-) Deploy Azure Machine Learning predictive maintenance model as an IoT Edge module (demo link)[https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-machine-learning]
+1) Deploy Azure Machine Learning predictive maintenance model as an IoT Edge module [demo link](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-machine-learning) <br>
+
+2) Batch scoring of Spark machine learning models [demo link](https://github.com/Azure/BatchSparkScoringPredictiveMaintenance) <br>
+
+3) [Predictive Maintenance using PySpark](https://github.com/Azure/PySpark-Predictive-Maintenance) <br>
+
+4) [Predictive Maintenance with AI](https://github.com/Azure/AI-PredictiveMaintenance) <br>
+
+5) [Deep learning for predictive maintenance](https://github.com/Azure/lstms_for_predictive_maintenance/blob/master/Deep%20Learning%20Basics%20for%20Predictive%20Maintenance.ipynb) <br>
+
+6)
+
+
+
